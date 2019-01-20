@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="cloning-youtubes-video-page">Cloning youtube’s video page</h1>
 <p>First project of the <a href="https://www.microverse.org/">Microverse</a> curriculum from the CSS3 and HTML section.</p>
 <p>Taken from <a href="https://www.theodinproject.com/courses/html5-and-css3/lessons/embedding-images-and-video">The  Odin  Project</a>.</p>
