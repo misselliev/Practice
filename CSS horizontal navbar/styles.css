@@ -1,0 +1,34 @@
+body{
+    font-family: Arial;
+  }
+  nav ul{
+    list-style-type: none;
+    border: 2px solid red;
+    padding: 0;
+    margin: 0;
+  }
+  nav li{
+    border: 2px solid green;
+    width: 10rem;
+    background-color: lightBlue;
+    margin-bottom: 1rem;
+    text-align: center;
+    display: inline-block;
+    //Change display to inlineblock to make it go horizontal
+  }
+  nav{
+    border: 3px solid hotpink;
+  }
+  nav a{
+    display: block;
+    border: 2px solid orange;
+    font-size: 2rem;
+    color: hotpink;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0.5rem;
+  }
+  nav a:hover{
+    background-color: purple;
+    color: white;
+  }

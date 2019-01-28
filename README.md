@@ -6,6 +6,7 @@
 <p>You can find here, currently:</p>
 <ul>
   <li>CSS Grid</li>
+  <li>Horizontal nav bar</li>
 </ul>
 
 Always updating*
