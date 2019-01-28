@@ -5,10 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>CSS Grid test</title>
+    <link rel="stylesheet" href="basic.css">
+
 <style>
+
 .container{
     display: grid;
+    grid-template-columns: 100px auto 100px; /*define width. Auto makes that column total up on whatever is left from the container, making it responsive*/
+    grid-template-rows: 50px 50px; /*define heigth*/
+    grid-gap: 3px; /*creates space between cells*/
 }
+
 </style>
 
 </head>

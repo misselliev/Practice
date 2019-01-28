@@ -1,0 +1,27 @@
+.container > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: lightseagreen;
+}
+
+html, body{
+    background-color: lightseagreen;
+    margin:10px;
+}
+
+.container > div:nth-child(1n){
+    background-color: lightgreen;
+}
+
+.container > div:nth-child(3n){
+    background-color: lightskyblue;
+}
+.container > div:nth-child(2n){
+    background-color: lightcoral;
+}
+
+.container > div:nth-child(2n){
+    background-color: lightgrey;
+}
