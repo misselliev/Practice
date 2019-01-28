@@ -3,7 +3,8 @@
 <h1 id="practice-page">Practicing skills</h1>
 <p>In this repository I'll be making code practices for certain skills.</p>
 
-<ul>You can found here:
+<p>You can find here, currently:</p>
+<ul>
   <li>CSS Grid</li>
 </ul>
 
