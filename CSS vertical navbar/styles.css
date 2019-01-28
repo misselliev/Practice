@@ -13,20 +13,21 @@ body{
     background-color: lightBlue;
     margin-bottom: 1rem;
     text-align: center;
-    display: inline-block;
-    /* Change display to inlineblock to make it go horizontal */
+    
   }
   nav{
     border: 3px solid hotpink;
   }
   nav a{
     display: block;
+    /*to make the whole area clickable you turn nav a display to block and remove padding if any in nav li*/
     border: 2px solid orange;
     font-size: 2rem;
     color: hotpink;
     font-weight: bold;
     text-decoration: none;
     padding: 0.5rem;
+    
   }
   nav a:hover{
     background-color: purple;

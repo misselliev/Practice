@@ -7,6 +7,8 @@
 <ul>
   <li>CSS Grid</li>
   <li>Horizontal nav bar</li>
+  <li>Vertical nav bar</li>
+
 </ul>
 
 Always updating*
